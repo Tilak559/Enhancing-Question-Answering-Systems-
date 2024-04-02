@@ -1,0 +1,25 @@
+2023-12-15 12:54:41,125 dev INFO: Read PDF
+2023-12-15 12:54:41,126 dev INFO: get_pdf_text took 0.03946375846862793 seconds to complete
+2023-12-15 12:54:43,429 sentence_transformers.SentenceTransformer INFO: Load pretrained SentenceTransformer: hkunlp/instructor-xl
+2023-12-15 12:55:26,138 sentence_transformers.SentenceTransformer INFO: Use pytorch device: cpu
+2023-12-15 12:56:04,124 faiss.loader INFO: Loading faiss.
+2023-12-15 12:56:04,582 faiss.loader INFO: Successfully loaded faiss.
+2023-12-15 19:04:55,810 dev INFO: Read PDF
+2023-12-15 19:04:55,811 dev INFO: get_pdf_text took 0.0448758602142334 seconds to complete
+2023-12-15 19:04:58,053 sentence_transformers.SentenceTransformer INFO: Load pretrained SentenceTransformer: hkunlp/instructor-xl
+2023-12-15 19:05:45,469 sentence_transformers.SentenceTransformer INFO: Use pytorch device: cpu
+2023-12-15 19:06:31,832 faiss.loader INFO: Loading faiss.
+2023-12-15 19:06:32,298 faiss.loader INFO: Successfully loaded faiss.
+2023-12-15 19:06:32,981 dev INFO: get_conversation_chain took 0.6598567962646484 seconds to complete
+2023-12-15 19:13:38,105 dev INFO: Read PDF
+2023-12-15 19:13:38,106 dev INFO: get_pdf_text took 0.049165964126586914 seconds to complete
+2023-12-15 19:13:38,107 sentence_transformers.SentenceTransformer INFO: Load pretrained SentenceTransformer: hkunlp/instructor-xl
+2023-12-15 19:14:20,415 sentence_transformers.SentenceTransformer INFO: Use pytorch device: cpu
+2023-12-15 19:15:01,149 dev INFO: get_conversation_chain took 0.876107931137085 seconds to complete
+2023-12-15 21:34:33,657 dev INFO: Read PDF
+2023-12-15 21:34:33,657 dev INFO: get_pdf_text took 0.05653190612792969 seconds to complete
+2023-12-15 21:34:36,896 sentence_transformers.SentenceTransformer INFO: Load pretrained SentenceTransformer: hkunlp/instructor-xl
+2023-12-15 21:35:21,935 sentence_transformers.SentenceTransformer INFO: Use pytorch device: cpu
+2023-12-15 21:36:04,206 faiss.loader INFO: Loading faiss.
+2023-12-15 21:36:04,558 faiss.loader INFO: Successfully loaded faiss.
+2023-12-15 21:36:05,101 dev INFO: get_conversation_chain took 0.5223090648651123 seconds to complete
